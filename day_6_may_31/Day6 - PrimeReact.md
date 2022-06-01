@@ -38,7 +38,7 @@
 
    - IE insupport issue: PrimeReact is not updating their support on IE broswer
 
-     ![image-20220531145807441](/Users/XZW/Library/Application Support/typora-user-images/image-20220531145807441.png)
+     ![chrome support](./chrome support.png)
 
    - Heavily dependent on CSS: PrimeReact does not provide much styling modification apis(offsets, colors, etc). Users have to face redundant CSS work if they're going to do detialed styling work.
 
