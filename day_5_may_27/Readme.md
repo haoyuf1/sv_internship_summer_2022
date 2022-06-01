@@ -23,8 +23,12 @@
 	* Decided to build one from scratch to better understand how it could work -- [repo](https://github.com/haoyuf1/Autocomplete-App)
 * Jiasheng
 	* Looked into documentation to understand requests better
-		* [uva](https://github.com/dvajs/dva)
+		* [dva](https://github.com/dvajs/dva)
+			- React-Router + Redux + Redux-saga
 		* [umi](https://umijs.org/)
+			- Used to implement model.js, which is used for data connection between components. 
+			- Alternativs: next.js
+		* How are dva and umi used in Xinna's project? 
 	* Dug into the options calls & tree components
 	* And [ant](https://ant.design/) components
 * Gaoyuan
