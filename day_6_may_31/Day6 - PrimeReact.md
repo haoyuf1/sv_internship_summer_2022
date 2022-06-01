@@ -40,5 +40,7 @@
 
      ![chrome support](./chrome support.png)
 
+     <img src="./chrome support.png"/>
+   
    - Heavily dependent on CSS: PrimeReact does not provide much styling modification apis(offsets, colors, etc). Users have to face redundant CSS work if they're going to do detialed styling work.
 
