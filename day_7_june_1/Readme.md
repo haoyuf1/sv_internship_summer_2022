@@ -4,7 +4,7 @@ Today, folks focused on specific use cases/widgets
 * Zhihao: 
 * Haoyu: Cards
 * Jason: Requests framework (Axios) & Plotly
-* Jiacheng: Rangesliders
+* Jiacheng: Rangesliders https://github.com/JiachengSun0520/request-test
 * Gaoyuan: Options tree with checkboxes
 * Jiran: Plotly
 * Lize: Tree and autocomplete
