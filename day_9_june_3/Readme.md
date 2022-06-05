@@ -56,7 +56,7 @@ Today, we consolidated into 3 teams, with different goals
 ### Goals
 
 * Deployment to Heroku
-* Cards
+* [Cards](https://github.com/haoyuf1/voyages-cards)
 	* Split field handling
 		* And think about how we can attach different fields together when needed (e.g., source_ref to full_ref_text for specific references -- or captain_id to captain_name for interactivity)
 	* Labels for vars
